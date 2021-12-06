@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+*{
+  font-family: 'Rubik', sans-serif;
+}
+img{
+  max-width: 100%;
+}
+.site-logo{
+  width: 32px;
+  margin-right: 4px;
+}
+.not-found{
+  height: 80vh;
+}
+.hero-section{
+  background: #030b7993 url(./images/home-banner.jpg) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+}
+.sub-heading{
+  color: orangered;
+  letter-spacing: 2px;
+}
+.feature-section{
+  background: orangered;
+}
+
+.far.fa-star,
+.fa.fa-star{
+  color: orangered;
+}
+.course-img{
+  overflow: hidden;
+}
+.course-img img{
+  transition: transform 400ms;
+}
+.card:hover img{
+  transform: scale(1.4);
+  cursor: pointer;
+}
+.single-page-header{
+  background: #00008b96 url(./images/header_banner-single.jpg) center;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+.active{
+  color: #fff !important;
+}
+.event-item{
+  transition: all 400ms;
+  box-shadow: #11111a1a 0px 0px 16px;
+}
+.event-item:hover{
+  box-shadow: #11111a1a 0px 1px 5px, #11111a1a 0px 8px 24px, #11111a1a 0px 16px 48px ;
+  transform: translateY(-10px);
+}
+
+.features-about{
+  background: #00008b57 url(./images/about-bg.jpg) center;
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.feature-1{
+  background: #011ec498;
+}
+.feature-2{
+  background: #c4010198;
+}
+.feature-3{
+  background: #fc530598;
+}
+.feature-4{
+  background: #02961698;
+}
+[class|="feature"]{
+  backdrop-filter: blur(2px);
+}
+.icon-box{
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-title{
+  cursor: pointer ;
+  font-weight: 600;
+}
+.card-title:hover{
+  color: darkblue;
+  text-decoration: underline;
+}
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #f00b3c;
+  font-weight: 600;
+}

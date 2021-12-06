@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Basic CSS Flexbox Tutorial Guide",
+    "trainer": "Liam",
+    "price": 29.89,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Photography: Diptychs",
+    "trainer": "Noah",
+    "price": 0,
+    "star": 5,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Upgrade your speaking and listening",
+    "trainer": "Elijah",
+    "price": 20.5,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "English for Research Publication Purposes",
+    "trainer": "William",
+    "price": 0,
+    "star": 3,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Design Thinking – Design Research and Analysis",
+    "trainer": "James",
+    "price": 25.49,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Photoshop For T-shirt Design: For Beginners",
+    "trainer": "Benjamin",
+    "price": 27.99,
+    "star": 5,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Certificate Training Program – Admission",
+    "trainer": "Lucas",
+    "price": 45.67,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Seminar for all First Year Graduate Students",
+    "trainer": "Henry",
+    "price": 0,
+    "star": 3,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Notice Regarding Midterm Overlap Exam",
+    "trainer": "Alexander",
+    "price": 49.59,
+    "star": 5,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-img-9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Notice for project form collection Summer",
+    "trainer": "Michael",
+    "price": 50.75,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Improvement Exam Routine, Summer 2022",
+    "trainer": "Ethan",
+    "price": 24.78,
+    "star": 4,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Regarding vocational training contest 2022",
+    "trainer": "Daniel",
+    "price": 0,
+    "star": 5,
+    "describe": "Course Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem",
+    "img": "../education/courses/course-12.jpg"
+  }
+]
